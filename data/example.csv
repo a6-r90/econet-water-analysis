@@ -1,0 +1,7 @@
+Characteristic Name,Result Value,Result Unit,Activity Start Date,Monitoring Location Name,Monitoring Location State
+Dissolved oxygen,7.1,mg/L,2024-01-01,Demo site A,Demo region
+Dissolved oxygen,7.5,mg/L,2024-01-02,Demo site A,Demo region
+Dissolved oxygen,6.9,mg/L,2024-01-03,Demo site A,Demo region
+pH,7.2,pH units,2024-01-01,Demo site A,Demo region
+pH,7.4,pH units,2024-01-02,Demo site A,Demo region
+Dissolved oxygen,8.0,mg/L,2024-01-01,Demo site B,Demo region
